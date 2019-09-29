@@ -1,2 +1,1 @@
-# MPACore.PhoneBook
-学习abp项目
+# ABP学习
